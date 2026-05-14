@@ -81,10 +81,10 @@ The released GDS files are intended to support reproducibility of the layout-gen
 If you use these layouts in your research, please cite our paper:
 
 ```bibtex
-@article{zhu2026standard,
+@unpublished{zhu2026standard,
   title={Standard Cell Layout Generator Empowered by ILP-based Routing with Dynamic Grid-Shifting for Advanced Nodes},
   author={Zhu, Ziran and Wu, Hao and Zheng, Zhengzhe and Peng, Keyu and Wu, Yinuo and Gu, Hao and Wang, Chao},
-  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+  note={Submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
   year={2026}
 }
 ```
